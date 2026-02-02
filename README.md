@@ -92,12 +92,18 @@ These metrics are designed to be:
 
 ---
 
+## Citation
+
+If you use this code, please cite:
+
+```bibtex
 @inproceedings{brient_mfn_hrrp,
   title     = {MFN Decomposition and Related Metrics for High-Resolution Range Profiles Generative Models},
   author    = {Brient, Edwyn and Velasco-Forero, Santiago and Kassab, Rami},
   booktitle = {IEEE Radar Conference (RadarConf)},
   year      = {2025}
 }
+```
 
 ### Acknowledgments
 
