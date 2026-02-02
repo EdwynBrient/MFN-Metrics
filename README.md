@@ -62,7 +62,7 @@ The following figure shows both metrics between two data of the same ship **blue
 
 ---
 
-## MFN decomposition (high level)
+## MFN decomposition
 
 Given a range profile \( RP \in \mathbb{R}^{S} \), MFN builds:
 
