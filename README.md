@@ -8,7 +8,7 @@ generally comparing HRRP signals in a physically meaningful way).
 It accompanies the paper:
 
 > **MFN Decomposition and Related Metrics for High-Resolution Range Profiles Generative Models**  
-> (RadarConf submission / preprint in this repo)
+> (Accepted at RadarConf25)
 
 ---
 
